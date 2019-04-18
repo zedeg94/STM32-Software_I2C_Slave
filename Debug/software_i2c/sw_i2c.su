@@ -1,0 +1,13 @@
+sw_i2c.c:41:6:I2C_SDA_SetState	4	static
+sw_i2c.c:63:6:I2C_SCL_SetState	8	static
+sw_i2c.c:79:6:I2C_OnRise	8	static
+sw_i2c.c:99:6:I2C_OnFall	8	static
+sw_i2c.c:128:6:I2C_ProcessTransmitTail_Rise	8	static
+sw_i2c.c:152:6:I2C_ProcRead	8	static
+sw_i2c.c:160:6:I2C_ProcessBitIn	8	static
+sw_i2c.c:176:6:I2C_RecByte	8	static
+sw_i2c.c:197:6:I2C_ProcByteIn	4	static
+sw_i2c.c:202:6:I2C_ProcessBitOut	16	static
+sw_i2c.c:211:6:I2C_ProcByteOut	4	static
+sw_i2c.c:217:6:I2C_SendBitAck	4	static
+sw_i2c.c:224:6:I2C_ProcessTransmitTail_Fall	4	static
